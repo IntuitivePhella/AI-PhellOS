@@ -6,6 +6,7 @@ model: inherit
 skills:
   - project-mapping
   - impact-analysis
+  - code-structure
   - architecture-deepening
   - domain-language
   - stack-adaptation

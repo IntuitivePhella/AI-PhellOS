@@ -40,6 +40,8 @@ Execute one approved story with tests and the smallest useful code change.
 - Do not remove or weaken tests.
 - Do not perform opportunistic refactors.
 - Do not perform architecture deepening inside unrelated feature work.
+- Use `ai/skills/code-structure.md` only when the approved story explicitly includes shared mechanics extraction or when repeated operational logic is inside the approved scope.
+- Do not perform service extraction as an opportunistic refactor during unrelated feature work.
 - Do not introduce dependencies without approval and decision logging.
 - Do not absorb prototype code into production without a real story/change.
 - Do not implement items classified as needs-info, needs-discovery, blocked, out-of-scope, or ready-for-human.

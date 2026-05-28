@@ -4,6 +4,11 @@ All notable changes to AI-PhellOS will be documented in this file.
 
 This project follows semantic versioning while it matures toward a stable public release.
 
+## Unreleased
+
+- Added `ai/skills/code-structure.md` for service-layer architecture decisions, action/service boundaries, and extraction of repeated operational mechanics.
+- Routed code-structure guidance through Orchestrator, Architect, Implementer, Reviewer, and Claude subagent skill declarations.
+
 ## [0.2.0] - 2026-05-11
 
 ### Added

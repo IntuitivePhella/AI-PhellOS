@@ -9,6 +9,7 @@ skills:
   - brainstorming
   - story-splitting
   - impact-analysis
+  - code-structure
   - diagnose
   - domain-language
   - architecture-deepening

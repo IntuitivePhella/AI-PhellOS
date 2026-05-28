@@ -7,6 +7,7 @@ skills:
   - tdd
   - diagnose
   - impact-analysis
+  - code-structure
   - rollback-planning
   - memory-update
 ---
