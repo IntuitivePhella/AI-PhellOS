@@ -9,6 +9,7 @@ skills:
   - domain-language
   - regression-analysis
   - impact-analysis
+  - code-structure
 ---
 
 # Reviewer Subagent

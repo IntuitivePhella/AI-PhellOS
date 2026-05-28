@@ -17,6 +17,7 @@ They should be short, procedural, and focused on one capability.
 - `diagnose.md` — diagnose bugs, flaky tests, regressions, performance issues, and unexplained failures before fixing.
 - `domain-language.md` — resolve durable product/domain vocabulary and update the domain glossary.
 - `architecture-deepening.md` — identify safe structural improvements that improve locality, seams, interfaces, and testability.
+- `code-structure.md` — separate domain orchestration from reusable operational mechanics using service-layer capability blocks.
 - `MINIMAL_SAFE_EXECUTION.md` — keep implementation, review, diff analysis, and scope validation explicit, simple, surgical, and verifiable.
 - `tdd.md` — apply test-first or test-aware implementation.
 - `test-planning.md` — define automated and manual verification coverage.

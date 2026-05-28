@@ -38,6 +38,8 @@ Perform senior engineering review for maintainability, simplicity, architecture 
 - Check handoff references durable artifacts instead of duplicating them.
 - Check intake triage was not bypassed for unclear work.
 - Check whether story classification was accurate.
+- Check action vs service boundaries when repeated operational mechanics were added or changed.
+- Flag services that own domain policy, auth, state transitions, or database mutations without an approved architectural reason.
 
 ## Output format
 
